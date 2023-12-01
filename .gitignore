@@ -1,0 +1,46 @@
+### Renpy ###
+# Don't track content of these folders #
+########################################
+cache/
+saves/
+
+
+# Compiled source #
+###################
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+*.rpyc
+*.rpymc
+
+
+# The log file and other misc things #
+######################################
+log.txt
+errors.txt
+traceback.txt
+files.txt
+
+### VisualStudioCode ###
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+!.vscode/*.code-snippets
+
+# Local History for Visual Studio Code
+.history/
+
+# Built Visual Studio Code Extensions
+*.vsix
+
+### VisualStudioCode Patch ###
+# Ignore all local history of files
+.history
+.ionide
+

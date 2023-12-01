@@ -1,0 +1,38 @@
+label intro:
+    stop music fadeout 1.0
+
+    play sound "phone_vibrating.webm"
+
+    """
+    the phone won't stop ringing. who's calling now?
+
+    oh, really? that can't be true...
+    """
+
+    stop sound
+
+    e "Kaito, Kaito, you ok???"
+
+    k "yea, Eriko, pretty much."
+    
+    k "why are you calling me at 4 am?"
+
+    e "..."
+
+    e "it's just that... i remembered that today is your BIRTHDAY!!"
+
+    k "so you decided to wish me happy birthday even if it was actually 4 months ago?"
+
+    e "eeeh??"
+
+    e "what do you mean, 4 months ago? i swear it says today on my calendar..."
+
+    k "thank you for nothing, Eriko."
+
+    e "wtf?"
+
+    e "anyways, at least i think you'll like the present! byeee~"
+
+    "why is she always like that?"
+    
+    return
