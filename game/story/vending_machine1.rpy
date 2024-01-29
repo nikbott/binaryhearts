@@ -28,11 +28,13 @@ label vending_machine1:
     
     label red_dragon:
         $snk = True
+        $ttt = False
         e "red dragon super spicy energy drink!! (赤いドラゴン 超辛いエナジードリンク！！)"
         "Eriko loves this stuff."
         jump buy
 
     label cosmic_goo:
+        $snk = False
         $ttt = True
         e "neon purple cosmic goo energy drink!! (ネオンパープル コズミックグー エナジードリンク！！)"
         "Eriko loves this stuff."
