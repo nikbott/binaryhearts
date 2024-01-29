@@ -2,7 +2,7 @@
 
 image aya cringe:
     "aya cringe.png"
-    zoom 1.2
+    zoom 1.2 
 
 image aya neutral:
     "aya neutral.png"
@@ -35,6 +35,12 @@ image hiroshi neutral:
 image byte battle:
     "byte battle.png"
     zoom 1.2
+
+image clouds:
+    "clouds.jpg"
+    # center vertically
+    yalign 0.5
+    zoom 0.6
 
 image glitch:
     Movie(play="movies/glitch.webm")

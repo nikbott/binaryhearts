@@ -11,4 +11,8 @@ songs:
     Hotaru - Dear Future Self (from Kero Kero Bonito)
     Rosemary Fairweather - Chemicals
 
+sfx:
+    Ambience - Tokyo City Japan Pedestrians - SFX Producer (https://www.youtube.com/watch?v=vCWnNvMbe8M)
+    Vending Machine Sound Effect - AudioKid - Sound FX Library (https://www.youtube.com/watch?v=JSvmjAL3T7s)
+
 Luiza :3

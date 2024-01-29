@@ -14,4 +14,8 @@ label start:
 
     call cafe1 from _call_cafe1
 
+    call city1 from _call_city1
+
+    call vending_machine1 from _call_vending_machine1
+
     return
